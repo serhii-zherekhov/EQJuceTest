@@ -61,11 +61,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.48125" y="0.6270161290322581" useARA="0" uiLastX_Normal="868"
-          uiLastY_Normal="333" uiopen_Normal="0">
+  <FILTER uid="5" x="0.48125" y="0.6270161290322581" useARA="0" uiLastX_Normal="424"
+          uiLastY_Normal="311" uiopen_Normal="0">
     <PLUGIN name="EQJuceTest" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="C:\Users\SJ\source\repos\EQJuceTest\Builds\VisualStudio2022\x64\Debug\VST3\EQJuceTest.vst3\Contents\x86_64-win\EQJuceTest.vst3"
-            uniqueId="f968e322" isInstrument="0" fileTime="198aac1c1d1" infoUpdateTime="198aac384a9"
+            uniqueId="f968e322" isInstrument="0" fileTime="198ab02012c" infoUpdateTime="198ab038e73"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e955d689"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -78,11 +78,11 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="8" x="0.47625" y="0.4415322580645161" useARA="0" uiLastX_Normal="326"
-          uiLastY_Normal="158" uiopen_Normal="1">
+  <FILTER uid="8" x="0.47625" y="0.4415322580645161" useARA="0" uiLastX_Normal="100"
+          uiLastY_Normal="130" uiopen_Normal="0">
     <PLUGIN name="AudioFilePlayer" format="VST3" category="Fx" manufacturer="Matkat Music LLC"
             version="1.0.0" file="C:\Users\SJ\source\repos\AudioFilePlayer\AudioFilePlayer\Builds\VisualStudio2019\x64\Debug\VST3\AudioFilePlayer.vst3\Contents\x86_64-win\AudioFilePlayer.vst3"
-            uniqueId="79fe81c" isInstrument="0" fileTime="198a613783f" infoUpdateTime="198aac384a9"
+            uniqueId="79fe81c" isInstrument="0" fileTime="198a613783f" infoUpdateTime="198ab038e74"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e95d02c7"/>
     <STATE>292.VMjLgrQ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DyL03BTIISX1UEaho2ZVkUdAAkKAwDUigWRWkEcQ0VTucmUY4BQ1sTQLolShUELhsVRxHlXMslThACUik2ZwfkXAMjSz4hP5EkP3PWT1fjdxHjP5okQMYFTCsjd3HTSxQmXWgULA4hKt3hKt3hKt3hKtXlTU0DUQAURWoULEYzXqEEUXoWQF4RPDYFTzDzUXkWSG4RPDYmKtnWPt3hKt3hKt3hKJUELPUTPqI1aYcEV5UkQQcVTWgEOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO..</STATE>
